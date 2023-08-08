@@ -1,12 +1,10 @@
-👋 Hi, I'm Prabhath Kumar Rayabrapu.
+👋 Hi, I'm Prabhath Kumar Rayabarapu.
 
-I'm a student being innovative and my hobbies include breakfast, lunch, dinner and ‹/coding›.
+I'm a SDE being innovative and my hobbies include breakfast, lunch, dinner and ‹/coding›.
 
-I’m currently pursuing BTech in Artificial Intelligence from VJIT, Hyderabad.
+BTech'23 Graduate in Artificial Intelligence from VJIT, Hyderabad.
 
 Shift the ctrl to us, we will alt the world. /* no comments */
-
-To know more about me visit my personal website [www.prabhathkumar.me](https://prabhathkumar.me) 😁
 
 
 <!---
